@@ -1,0 +1,8 @@
+body {
+    background: url("https://i.pinimg.com/originals/14/e1/5d/14e15d457c4740c9eabee8058e0c78be.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: cyan;
+}
